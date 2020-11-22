@@ -19,4 +19,10 @@
 
 <br />
 
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=yijunyang">
+</p>
+
+<br />
+
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
