@@ -15,7 +15,8 @@
 Here are some ideas to get you started:
 -->
 
+**About me**
+
 - :bar_chart:  Master's Candidate at Yale Biostatistics
 - :cookie:  Bachelor's degree in Food Science
-- 💬  Connect me on [Linkedin](https://www.linkedin.com/in/yijun-yang-data-food-health/)
 - :information_desk_person:  Pronouns: She/They
