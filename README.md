@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 Currently a 2nd year Master's Candidate at Yale School of Public Health - Biostatistics
-- 🍱 Bachelor's degree in Food Science, from China Agricultural University
+- 📝 Currently 2nd year Master's Candidate at Yale School of Public Health - Biostatistics
+- 🍱 Bachelor's degree in Food Science
 - 💬 Connect me on [Linkedin](https://www.linkedin.com/in/yijun-yang-data-food-health/)
 - 😄 Pronouns: She/They
