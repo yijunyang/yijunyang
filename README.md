@@ -6,14 +6,10 @@
 <a href="https://www.instagram.com/eatdrinkyoung/">
   <img align="left" alt="yj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=yijunyang.yijunyang)
 
 <br />
-
-<!--
-**yijunyang/yijunyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
 **About me**
 
